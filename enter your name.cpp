@@ -4,5 +4,5 @@ int main (){
 	printf("Enter your name:");
 	scanf("%c",&name);
 	printf("%c",name);
-	return 0;
+	getch ();
 }
